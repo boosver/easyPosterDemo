@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@qiun/ucharts': 2.4.3-20220505
+  easyposter: ^0.0.7
+
+dependencies:
+  '@qiun/ucharts': 2.4.3-20220505
+  easyposter: 0.0.7
+
+packages:
+
+  /@qiun/ucharts/2.4.3-20220505:
+    resolution: {integrity: sha512-2ndkqsHfGPTCEcnPOb2xvA+LBtiTlvH/y8uIBzxQhXa1y1jQkNaY9PwZkhQjiIrX8rgiZncjAW6nkBgHLIx7zw==}
+    dev: false
+
+  /easyposter/0.0.7:
+    resolution: {integrity: sha512-amozsx5puUDanfWWhYjSnsc+tcoIB+vK6E8vga/lMHUNADo7QoDOOyBUIjwfPPesoKz3NFyAp7u2919ea201eQ==}
+    dev: false

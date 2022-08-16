@@ -1,0 +1,16 @@
+{
+  "name": "easyPosterDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@qiun/ucharts": "2.4.3-20220505",
+    "easyposter": "^0.0.7"
+  }
+}

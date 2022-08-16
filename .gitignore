@@ -1,0 +1,7 @@
+/unpackage/*
+!/unpackage/res
+/.DS_Store
+/node_modules
+/package-lock.json
+/bak
+/.idea
